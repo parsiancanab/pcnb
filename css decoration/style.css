@@ -126,10 +126,10 @@
       }
 
       .persian-font {
-        font-family: "El Messiri", sans-serif;
+        font-family: 'Vazirmatn', sans-serif;
         font-size: 20px;
         line-height: 20px;
-        color: rgb(2, 99, 15);
+        color: rgb(1, 61, 9);
         width: fit-content;
         margin-left: 40px;
         margin-right: 40px;
