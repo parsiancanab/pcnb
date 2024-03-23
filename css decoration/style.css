@@ -148,7 +148,7 @@
       .Title {
         font-family: "El Messiri", sans-serif;
         display: block;
-        
+        width: auto;
         margin-top: 20px;
         margin-left: 20px;
         margin-right: 20px;
